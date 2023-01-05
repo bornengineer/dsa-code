@@ -1,4 +1,5 @@
 # Prerequisites
+/node_modules/
 *.d
 *.exe
 
