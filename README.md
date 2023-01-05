@@ -1,2 +1,2 @@
 # dsa-code
-daily dsa repo
+Here I'll post the daily DSA practice problems
